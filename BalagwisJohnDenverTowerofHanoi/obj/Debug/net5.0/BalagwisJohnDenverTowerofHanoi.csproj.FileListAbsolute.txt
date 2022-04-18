@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.exe
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.deps.json
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.runtimeconfig.json
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.dll
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\ref\BalagwisJohnDenverTowerofHanoi.dll
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\bin\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.pdb
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.dll
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\ref\BalagwisJohnDenverTowerofHanoi.dll
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.pdb
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BalagwisJohnDenverArrayImplementation\BalagwisJohnDenverTowerofHanoi\obj\Debug\net5.0\BalagwisJohnDenverTowerofHanoi.csproj.AssemblyReference.cache
